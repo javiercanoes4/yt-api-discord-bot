@@ -1,0 +1,1 @@
+Discord bot that calls the youtube api to notify of new uploads of a single channel/playlist.
